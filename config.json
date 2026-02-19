@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "BE3yJCF3P75Ujl4F8v1RIOIpCWBSCDKz8rNARaV6ileKPiBilksPJQQJ99CAACYeBjFXJ3w3AAABACOGYX6b",
+  "azure_openai_endpoint": "https://greatcodeoff.openai.azure.com/",
+  "azure_api_version": "2025-01-01-preview",
+  "azure_deployment": "gpt-4o-mini"
+}
